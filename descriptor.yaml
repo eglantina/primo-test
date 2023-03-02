@@ -1,0 +1,6 @@
+code: primo-test
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/my-fe/check-descriptor.yaml
+
